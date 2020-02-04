@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+#top_left_menu {
+    width: 200px;
+    position: relative;
+    left: -15px;
+    top: 5px;
+}
+
+#top_left_menu li {
+    display: inline;
+    margin-right: 15px;
+    font-family: arial;
+    font-size: 13px;
+    color: #222;
+}
+
+#top_right_menu {
+    float: right;
+    padding-right: 40px;
+    position: relative;
+    top: -45px;
+}
+
+#top_menu_right ul {
+    padding-right: 40px;
+    margin: 0;
+}
+
+#top_right_menu li {
+    display: inline;
+    margin-right: 15px;
+    font-size: 13px;
+    font-family: arial;
+    color: #222
+}
