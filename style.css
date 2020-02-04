@@ -11,10 +11,6 @@ body {
 
 #top_left_menu li {
     display: inline;
-    margin-right: 15px;
-    font-family: arial;
-    font-size: 13px;
-    color: #222;
 }
 
 #top_right_menu {
@@ -36,3 +32,17 @@ body {
     font-family: arial;
     color: #222
 }
+
+#top_left_menu a, #top_right_menu a {
+    color: #222;
+    font-size: 13px;
+    font-family: arial;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+#top_left_menu a:hover, #top_right_menu a:hover {
+    text-decoration: underline;
+}
+
+
