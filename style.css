@@ -73,6 +73,37 @@ input {
     margin-right: auto;
 }
 
+#button_bar {
+    width: 100%;
+}
+
+#buttons {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 28px;
+    width: 500px;
+}
+
+#search {
+    float: left;
+    width: 127px;
+    margin-left: 111px;
+}
+
+#lucky {
+    float: right;
+    width: 142px;
+    margin-right: 111px;
+}
+
+#lucky, #search {
+    height: 36px;
+    background-color: #f2f2f2;
+    font-family: arial;
+    color: #5F6368;
+    font-size: 14px;
+}
+
 #region {
     width: 100%;
     position: fixed;
