@@ -45,4 +45,29 @@ body {
     text-decoration: underline;
 }
 
+#searchbar {
+    width: 584px;
+    position: relative;
+    margin: auto;
+}
+
+#logo {
+    width: 323px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 83px;
+}
+
+#logo img {
+    width: 323px;
+    height: 114px;
+}
+
+input {
+    width: 584px;
+    height: 46px;
+    font-size: 16px;
+    font-family: arial;
+    margin-top: 15px;
+}
 
